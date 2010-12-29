@@ -2,7 +2,7 @@ Fluttr CLI
 ==========
 
 This project is a small library written in python for interacting with the
-[fluttrly](http://fluttr.heroku.com) service.  Also provided is a program
+[fluttrly](http://fluttrly.com) service.  Also provided is a program
 designed to act as a command line interface to this library.  The library could
 be used to write other python programs that interact with fluttrly, or for
 small scripting jobs for manipulating fluttrly lists.  
